@@ -1,0 +1,19 @@
+.custom-content {
+    margin-left: auto;               /* mx-auto */
+    margin-right: auto;              /* mx-auto */
+    margin-top: 2.5rem;              /* mt-10 */
+    padding: 1rem;                   /* p-4 */
+    border: 1px solid #e5e7eb;       /* border border-gray-200 */
+    border-radius: 0.5rem;           /* rounded-lg */
+  }
+  
+  .custom-button {
+    display: flex;                  /* flex */
+    justify-content: center;         /* justify-center */
+    align-items: center;             /* items-center */
+    padding: 1rem;                   /* p-4 */
+    background-color: #3b82f6;       /* bg-blue-500 */
+    color: #ffffff;                  /* text-white */
+    border-radius: 0.5rem;           /* rounded-lg */
+  }
+  
